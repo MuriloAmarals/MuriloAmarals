@@ -1,17 +1,18 @@
 ## Bom dia, boa tarde e boa noite 👋
 <div align="justify">
- <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="35%" height="auto" />
+ <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="34%" height="auto" />
   Eu sou o <strong>Murilo Amaral</strong>, estou cursando engenharia elétrica, mas recentemente me apaixonei pelo desenvolvimento de software e claro, estou me capacitando cada dia mais afim de me transformar em <strong>Desenvolvedor Full Stack</strong>. Se me perguntarem o motivo da minha mudança de área, provavelmente eu direi que a programação me faz estressar e virar as noites de uma maneira diferente 😅. De fato, estes são alguns elementos que acompanham muitos desenvolvedores, mas o real motivo para eu entrar nesta área se deve ao fato de gostar de programar, de pensar, discutir planos, resolver problemas.
  </div>
  
  
-## Algumas coisas que são indispensáveis na minha vida 🤔
+## Algumas coisas que são indispensáveis na minha vida 😎
 
 <ul align="justify">
   <li>⚽ Gosto bastante de <strong>jogar e assitir futebol</strong>, e talvez eu seja um pouco competitivo. 😅</li>
   <li>🏃🏻 E não só de futebol se vive o homem. Acompanho com frequencia também <strong>Futebol Americano, Basquete e Basebol</strong>, além de todos os outros que vejo sempre que sobra um tempinho.
   <li>🎮 Adoro <strong>jogos</strong>, se falar qual eu mais gosto eu não te direi algum específico, mas o jogos de <strong>tiro (PC e console)</strong> e <strong>estrátegia (tabuleiro)</strong> são os que mais me atraem. Acho que o jogo que mais me marcou na vida foi <strong>Call of Duty: Black Ops 2<strong/>.</li>
   <li>👨🏻‍💻 Atualmente eu vivo codando, estou muito focado em aprender cada vez mais a respeito de <strong>Front-end</strong>, estou aprendendo bastante sobre React, Redux e Hooks. Caminhada firme na direção do <strong>Back-end<strong/>.</li>
+  <li>Por útimo e não menos importante, sou <strong>muito VASCO<strong/>.💢💢💢 </li>
 </ul>
 
 ## Tecnologias e Ferramentas
