@@ -1,8 +1,10 @@
 ## Bom dia, boa tarde e boa noite 👋
 <div align="justify">
+ <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="35%" height="auto" />
   Eu sou o <strong>Murilo Amaral</strong>, estou cursando engenharia elétrica, mas recentemente me apaixonei pelo desenvolvimento de software e claro, estou me capacitando cada dia mais afim de me transformar em <strong>Desenvolvedor Full Stack</strong>. Se me perguntarem o motivo da minha mudança de área, provavelmente eu direi que a programação me faz estressar e virar as noites de uma maneira diferente 😅. De fato, estes são alguns elementos que acompanham muitos desenvolvedores, mas o real motivo para eu entrar nesta área se deve ao fato de gostar de programar, de pensar, discutir planos, resolver problemas.
  </div>
-
+ 
+ 
 ## Algumas coisas que são indispensáveis na minha vida 🤔
 
 <ul align="justify">
