@@ -12,7 +12,7 @@
   <li>🏃🏻 E não só de futebol se vive o homem. Acompanho com frequencia também <strong>Futebol Americano, Basquete e Basebol</strong>, além de todos os outros que vejo sempre que sobra um tempinho. </li>
   <li>🎮 Adoro <strong>jogos</strong>, se falar qual eu mais gosto eu não te direi algum específico, mas o jogos de <strong>tiro (PC e console)</strong> e <strong>estrátegia (tabuleiro)</strong> são os que mais me atraem. Acho que o jogo que mais me marcou na vida foi <strong>Call of Duty: Black Ops 2<strong/>. </li>
   <li>👨🏻‍💻 Atualmente eu vivo codando, estou muito focado em aprender cada vez mais a respeito de <strong>Front-end</strong>, estou aprendendo bastante sobre React, Redux e Hooks. Caminhada firme na direção do <strong>Back-end<strong/>. </li>
-  <li>Por útimo e não menos importante, sou <strong>muito VASCO<strong/>.💢💢� </li>
+  <li>Por útimo e não menos importante, sou <strong>muito VASCO<strong/>.💢💢</li>
 </ul>
 
 ## Tecnologias e Ferramentas
